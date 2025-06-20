@@ -1,0 +1,35 @@
+# Сборка и артефакты
+/target/
+
+# Файлы Cargo.lock (если хочешь, можно игнорировать, но обычно в бинарных проектах его сохраняют)
+# Cargo.lock
+
+# Файлы редактора и IDE
+**/*.rs.bk
+**/*.rs.swp
+**/*.rs.swo
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# JetBrains IDEs (CLion, IntelliJ IDEA)
+.idea/
+
+# VSCode
+.vscode/
+
+# Логи
+*.log
+
+# Резервные копии
+*~
+
+# Файлы сборки и временные файлы
+/build/
+/out/
+
+# Конфиги среды разработки
+.env
