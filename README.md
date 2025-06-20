@@ -14,10 +14,5 @@ Vireon is a modular authentication daemon that uses facial recognition to grant 
 
 📦 Installation
 
-    Currently under development. To build:
-
-git clone https://github.com/ret2gl1ch/vireon.git
-
-cd vireon
-
-cargo build --release
+    git clone https://github.com/ret2gl1ch/vireon.git && cd vireon && cargo build --release
+    
